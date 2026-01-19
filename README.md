@@ -39,8 +39,3 @@
 ![Subscription Plan](screenshots/Subscription Plan.png)
 ### Contact Us Page
 ![Contact Us Page](screenshots/Contact Us.png)
-
-
-
-## 📷 Screenshots
-*(Add screenshots of report upload page, recommendation results, and homepage here)*
