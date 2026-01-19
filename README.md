@@ -28,14 +28,14 @@
 
 ## Screenshots
 ### Home Page
-![Home Page](screenshots/Home Page.png)
+![Home Page](screenshots/Home_Page.png)
 ### Sign-in Page
-![Sign-in Page](screenshots/Sign_in Page.png)
+![Sign-in Page](screenshots/Sign_in_Page.png)
 ### About Us Page
-![About Us Page](screenshots/About Us.png)
+![About Us Page](screenshots/About_Us.png)
 ### Menu Page
-![Menu Page](screenshots/Menu Page.png)
+![Menu Page](screenshots/Menu_Page.png)
 ### Subscription Plan
-![Subscription Plan](screenshots/Subscription Plan.png)
+![Subscription Plan](screenshots/Subscription_Plan.png)
 ### Contact Us Page
-![Contact Us Page](screenshots/Contact Us.png)
+![Contact Us Page](screenshots/Contact_Us.png)
